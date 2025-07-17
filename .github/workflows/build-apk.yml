@@ -31,6 +31,3 @@ jobs:
         with:
           name: release-apk
           path: android/app/build/outputs/apk/release/app-release.apk
-
-      - name: Build Step Placeholder
-  run: echo "Simulasi build berhasil"
